@@ -1,5 +1,5 @@
 # VoxTube 
-## Hi there 👋
+## #planetscale - #hashnode hackathon
 
 - [Introduction](#introduction)
 - [What is VoxTube](#what-is-voxtube)
