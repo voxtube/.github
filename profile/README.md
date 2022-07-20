@@ -1,5 +1,5 @@
 # VoxTube 
-## #planetscale - #hashnode hackathon
+## [#planetscale](https://planetscale.com) - [#hashnode](https://townhall.hashnode.com/planetscale-hackathon) hackathon
 
 - [Introduction](#introduction)
 - [What is VoxTube](#what-is-voxtube)
