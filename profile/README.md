@@ -7,15 +7,15 @@
 - [Tech Stack](#tech-stack)
 - [Team](#team)
 
-## Introduction
+## **`Introduction`**
 VoxTube is a video streaming platform, developed by the VoxTube Hackathon(Hashnode & PlanetScale) [team](#team), The project is brought to you by 2 passionate developers, and 1 designer, the team section can be found below in the team section [here](#team).
 
-## What is VoxTube
+## **`What is VoxTube`**
 VoxTube is a video streaming platform made for content creators.
 
-## Why VoxTube
+## **`Why VoxTube`**
 
-## Tech Stack
+## `**Tech Stack**`
 
 - [Planet Scale]()
 
@@ -46,6 +46,6 @@ VoxTube is a video streaming platform made for content creators.
 
   Bla Bla
 
-### Project Setup
+## Project Setup
 
 ## Team
