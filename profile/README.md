@@ -14,13 +14,13 @@ VoxTube is a video streaming platform, developed by the VoxTube Hackathon(Hashno
 VoxTube is a video streaming platform made for content creators.
 
 ## **`Why VoxTube`**
-hundreds and thousands of content creators on the internet doesn't have the chance to reach their targeted number of audience due to competition by popular content creators in the internet. 
+Thousands of content creators on the internet don't have the chance to reach their targeted number of audience due to competition by popular content creators in the internet. 
 
-Due to that factor, New content creators find it difficult to be noticed by their audience since they are not known and not popular.
+Due to that factor, New content creators find it difficult to be noticed by their audience since they are not known and not popular. Most of these contents creators usually give up and quit along the way.
 
-VoxTube made it possible for new content creators to be notice, and reach their audience by boosting creators contents on the platform ensuring it reaches larger number of audience even if you are a newbie creator.
+VoxTube makes it possible for new content creators to be noticed, and reach their audience by boosting creators' contents on the platform ensuring it reaches larger number of audience even if you are a newbie creator.
 
-VoxTube is not just for content creators but also for Movie Makers, Tutorials, Comedy Skits, Fun Facts, Entertainment, and more.
+VoxTube is not just for content creators but also for Movie Makers, Tutorials, Comedy Skits, Fun Facts, Entertainment and more.
 
 ## **`VoxTube Features`**
 VoxTube is made up of the following features:
@@ -45,7 +45,7 @@ VoxTube is made up of the following features:
   - View Reported Contents
 
 ## **`VoxTube Features In Progress`**
-Due to limited time frame for the hackathon, some features are not fully implemented or in progress, some of them are:
+Due to the limited time frame for the hackathon, some features are not fully implemented or are in progress, some of them are:
 - Live Streaming
 - Series/Collection
 - Buy Videos(A content creator can decide a resource/content is free, so the user will have to pay to unlock/access that resource to support the creator)
@@ -59,7 +59,7 @@ Due to limited time frame for the hackathon, some features are not fully impleme
 
 - [Planet Scale](https://planetscale.com/)
 
-  is a database for developers, scalers, creators, optimists, builders, and enterprisers. It's a MySQL-compatible serverless database platform.
+  Is a database for developers, scalers, creators, optimists, builders, and enterprises. It's a MySQL-compatible serverless database platform.
 
 
 - [Prisma](https://prisma.com/)
