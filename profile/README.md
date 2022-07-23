@@ -121,7 +121,8 @@ Due to the limited time frame for the hackathon, some features are not fully imp
   The VoxTube client(front end) is hosted in netlify
 
 ## **`9. CMS`**
-What is a CMS (Content Management System) ?:
+I will also use this opportunity to discus CMS.
+#### What is a CMS (Content Management System) ?:
 
 A content management system, often abbreviated as CMS, is software that helps users create, manage, and modify content on a website without the need for specialized technical knowledge.
 
