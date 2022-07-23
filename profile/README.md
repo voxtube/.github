@@ -1,28 +1,36 @@
-- [Introduction](#introduction)
-- [What is VoxTube](#what-is-voxtube)
-- [Why VoxTube](#why-voxtube)
-- [VoxTube Features](#voxtube-features)
-- [VoxTube Features In Progress](#voxtube-features-in-progress)
-- [Links](#links)
-- [Tech Stack](#tech-stack)
-- [Conclusion](#conclusion)
+## TABLE OF CONTENTS
+- [1. Introduction](#1-introduction)
+- [2. What is VoxTube](#2-what-is-voxtube)
+- [3. Why VoxTube](#3-why-voxtube)
+- [4. VoxTube Features](#4-voxtube-features)
+- [5. VoxTube Features In Progress](#5-voxtube-features-in-progress)
+- [6. Links](#6-links)
+- [7. Tech Stack](#7-tech-stack)
+- [8. Tech Stack](#8-infrastructure)
+- [9. CMS](#9-cms)
+- [10. References](#10-references)
+- [11. Conclusion](#11-conclusion)
 
-## **`Introduction`**
-VoxTube is a video streaming platform, developed by the VoxTube Hackathon(Hashnode & PlanetScale) [team](#team), The project is brought to you by 2 passionate developers, and 1 designer, the team section can be found below in the team section [here](#team).
+## **`1. Introduction`**
+VoxTube is a video streaming platform, developed by Ahmad Ahmad for the planet Scale Hackathon, VoxTube is video streaming platform made for content creators to reach their target audience.
 
-## **`What is VoxTube`**
+VoxTube backend was built with Nestjs and typescript whereas the streaming module is written in golang, the assets(videos, images and others) are being stored in cloudinary.
+
+Most of us already know that nodejs runs on a single thread node, and it can't handle intensive/heavy cpu workload/activities as it will impact the server resource and memory, the effect might not be notice especially in local host where you are the only user but in production where it might get thousands of requests per second,  because of that go lang was used for handling the pictures and videos upload / live-streaming (in progress)   
+
+## **`2. What is VoxTube`**
 VoxTube is a video streaming platform made for content creators.
 
-## **`Why VoxTube`**
+## **`3. Why VoxTube`**
 Thousands of content creators on the internet don't have the chance to reach their targeted number of audience due to competition by popular content creators in the internet. 
 
-Due to that factor, New content creators find it difficult to be noticed by their audience since they are not known and not popular. Most of these contents creators usually give up and quit along the way.
+Due to that factor, New content creators find it difficult to be noticed by their audience since they are not known and not popular. Most of these content creators usually give up and quit along the way.
 
 VoxTube makes it possible for new content creators to be noticed, and reach their audience by boosting creators' contents on the platform ensuring it reaches larger number of audience even if you are a newbie creator.
 
 VoxTube is not just for content creators but also for Movie Makers, Tutorials, Comedy Skits, Fun Facts, Entertainment and more.
 
-## **`VoxTube Features`**
+## **`4. VoxTube Features`**
 VoxTube is made up of the following features:
 - User
   - Authentication
@@ -44,18 +52,19 @@ VoxTube is made up of the following features:
   - Lists of Channels
   - View Reported Contents
 
-## **`VoxTube Features In Progress`**
+## **`5. VoxTube Features In Progress`**
 Due to the limited time frame for the hackathon, some features are not fully implemented or are in progress, some of them are:
 - Live Streaming
 - Series/Collection
 - Buy Videos(A content creator can decide a resource/content is free, so the user will have to pay to unlock/access that resource to support the creator)
 - Donate to a creator
 
-## **`Links`**
+## **`6. Links`**
 - [VoxTube Demo URL](https://voxtube.netlify.app)
 - [Github Repositories URL](https://github.com/voxtube)
+- [Api Docs Url](https://voxtube.herokuapp.com/docs)
 
-## **`Tech Stack`**
+## **`7. Tech Stack`**
 
 - [Planet Scale](https://planetscale.com/)
 
@@ -96,9 +105,38 @@ Due to the limited time frame for the hackathon, some features are not fully imp
 
   Vuetify is a Vue UI Library with beautifully handcrafted Material Components. No design skills required — everything you need to create amazing applications is at your fingertips.
 
-
+## **`8. Infrastructure`**
 - [Cloudinary](https://cloudinary.com)
 
   Cloudinary is a SaaS technology company, It enables users to upload, store, manage, manipulate, and deliver images and video for websites and apps.
 
-## **`Conclusion`**
+
+- [Heroku](https://heroku.com)
+
+  The VoxTube Server is hosted on heroku
+
+
+- [Netlify](https://netlify.com)
+
+  The VoxTube client(front end) is hosted in netlify
+
+## **`9. CMS`**
+What is a CMS (Content Management System) ?:
+
+A content management system, often abbreviated as CMS, is software that helps users create, manage, and modify content on a website without the need for specialized technical knowledge.
+
+In simpler language, a content management system is a tool that helps you build a website without needing to write all the code from scratch (or even know how to code at all). 
+
+Instead of building your own system for creating web pages, storing images, and other functions, the content management system handles all that basic infrastructure stuff for you so that you can focus on more forward-facing parts of your website.
+
+Beyond websites, you can also find content management systems for other functions – like document management.
+
+Example of CMS such as Wordpress, Strapi, hashnode, medium, VoxTube and lot more
+
+[Read more on CMS](https://kinsta.com/knowledgebase/content-management-system)
+
+## **`10. References`**
+- CMS: https://kinsta.com/knowledgebase/content-management-system/
+
+## **`11. Conclusion`**
+Thanks to [PlanetScale](https://planetscale.com) and [HashNode](https://townhall.hashnode.com/planetscale-hackathon) for organising this great hackathon.
