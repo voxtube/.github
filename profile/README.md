@@ -33,14 +33,13 @@ VoxTube is not just for content creators but also for Movie Makers, Tutorials, C
 ## **`4. VoxTube Features`**
 VoxTube is made up of the following features:
 
-![voxtube.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659274208974/ewShu4VyH.png align="left")
-
+![voxtube.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659274208974/ewShu4VyH.png)
 - User
   - Authentication
   - Watch Videos
 
   - Studio
-    ![Screenshot from 2022-07-31 14-24-10.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659274391241/8ewNPQPRW.png align="left")
+    ![Screenshot from 2022-07-31 14-24-10.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659274391241/8ewNPQPRW.png)
 
     The studio section let a user create a channel and manage them.
 
@@ -52,16 +51,16 @@ VoxTube is made up of the following features:
     - Published/unpublished contents
   - Channels
 
-![channels list.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659274674327/lCvnF-HiU.png align="left")
+![channels list.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659274674327/lCvnF-HiU.png)
 - Series
 
 - Admin
-  ![voxtube-menu.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659273773337/DP9ZrPBC4.png align="left")
+  ![voxtube-menu.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659273773337/DP9ZrPBC4.png)
 
   > ```Provided your role is Admin the dashboard button will appear above as seen in the above url, else the dashboard button does not show, if you want to see the admin dashboard and explore it you can comment below with your username let me make your account admin/mod.```
   - Dashboard(basic statistics)
 
-![dashb.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659276597587/7jaJiq7wh.png align="left")
+![dashb.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659276597587/7jaJiq7wh.png)
 - View Users
 - Change Role [Super, Admin, Mod, User]
 - Ban/suspend user
