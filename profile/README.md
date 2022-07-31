@@ -12,17 +12,17 @@
 - [11. Conclusion](#11-conclusion)
 
 ## **`1. Introduction`**
-VoxTube is a video streaming platform, developed by Ahmad Ahmad for the planet Scale Hackathon, VoxTube is video streaming platform made for content creators to reach their target audience.
+VoxTube is 'a' video streaming platform, developed by Ahmad Muhammad for the planet Scale Hackathon, VoxTube is video streaming platform made for content creators to reach their target audience.
 
 VoxTube backend was built with Nestjs and typescript whereas the streaming module is written in golang, the assets(videos, images and others) are being stored in cloudinary.
 
-Most of us already know that nodejs runs on a single thread node, and it can't handle intensive/heavy cpu workload/activities as it will impact the server resource and memory, the effect might not be notice especially in local host where you are the only user but in production where it might get thousands of requests per second,  because of that go lang was used for handling the pictures and videos upload / live-streaming (in progress)   
+Most of us already know that nodejs runs on a single thread node, and it can't handle intensive/heavy cpu workload/activities as it will impact the server resource and memory, the effect might not be notice especially in local host where you are the only user but in production where it might get thousands of requests per second,  because of that go lang was used for handling the pictures and videos upload / live-streaming (in progress)
 
 ## **`2. What is VoxTube`**
 VoxTube is a video streaming platform made for content creators.
 
 ## **`3. Why VoxTube`**
-Thousands of content creators on the internet don't have the chance to reach their targeted number of audience due to competition by popular content creators in the internet. 
+Thousands of content creators on the internet don't have the chance to reach their targeted number of audience due to competition by popular content creators in the internet.
 
 Due to that factor, New content creators find it difficult to be noticed by their audience since they are not known and not popular. Most of these content creators usually give up and quit along the way.
 
@@ -32,10 +32,18 @@ VoxTube is not just for content creators but also for Movie Makers, Tutorials, C
 
 ## **`4. VoxTube Features`**
 VoxTube is made up of the following features:
+
+![voxtube.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659274208974/ewShu4VyH.png align="left")
+
 - User
   - Authentication
   - Watch Videos
+
   - Studio
+    ![Screenshot from 2022-07-31 14-24-10.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659274391241/8ewNPQPRW.png align="left")
+
+    The studio section let a user create a channel and manage them.
+
     - Create a new channel
     - Manage Channel
     - Delete Channel
@@ -43,14 +51,22 @@ VoxTube is made up of the following features:
     - Create a serie(collection) and upload to it.
     - Published/unpublished contents
   - Channels
-  - Series
+
+![channels list.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659274674327/lCvnF-HiU.png align="left")
+- Series
+
 - Admin
+  ![voxtube-menu.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659273773337/DP9ZrPBC4.png align="left")
+
+  > ```Provided your role is Admin the dashboard button will appear above as seen in the above url, else the dashboard button does not show, if you want to see the admin dashboard and explore it you can comment below with your username let me make your account admin/mod.```
   - Dashboard(basic statistics)
-  - View Users
-  - Change Role [Super, Admin, Mod, User]
-  - Ban/suspend user
-  - Lists of Channels
-  - View Reported Contents
+
+![dashb.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659276597587/7jaJiq7wh.png align="left")
+- View Users
+- Change Role [Super, Admin, Mod, User]
+- Ban/suspend user
+- Lists of Channels
+- View Reported Contents
 
 ## **`5. VoxTube Features In Progress`**
 Due to the limited time frame for the hackathon, some features are not fully implemented or are in progress, some of them are:
@@ -60,7 +76,9 @@ Due to the limited time frame for the hackathon, some features are not fully imp
 - Donate to a creator
 
 ## **`6. Links`**
-- [VoxTube Demo URL](https://voxtube.netlify.app)
+- [VoxTube URL](https://voxtube.netlify.app)
+> Note: you cant explore the admin section if you are not an admin/mod, you can comment below with your user name so that i can make you admin/mod to explore the section.
+- [VoxTube Api Docs URL](https://voxtube.herokuapp.com/docs)
 - [Github Repositories URL](https://github.com/voxtube)
 - [Api Docs Url](https://voxtube.herokuapp.com/docs)
 
@@ -126,13 +144,13 @@ I will also use this opportunity to discus CMS.
 
 A content management system, often abbreviated as CMS, is software that helps users create, manage, and modify content on a website without the need for specialized technical knowledge.
 
-In simpler language, a content management system is a tool that helps you build a website without needing to write all the code from scratch (or even know how to code at all). 
+In simpler language, a content management system is a tool that helps you build a website without needing to write all the code from scratch (or even know how to code at all).
 
 Instead of building your own system for creating web pages, storing images, and other functions, the content management system handles all that basic infrastructure stuff for you so that you can focus on more forward-facing parts of your website.
 
 Beyond websites, you can also find content management systems for other functions – like document management.
 
-Example of CMS such as Wordpress, Strapi, hashnode, medium, VoxTube and lot more
+Example of CMS such as Wordpress, Strapi, hashnode, medium, VoxTube and lot more.
 
 [Read more on CMS](https://kinsta.com/knowledgebase/content-management-system)
 
