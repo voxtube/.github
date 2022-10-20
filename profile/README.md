@@ -68,7 +68,7 @@ VoxTube is made up of the following features:
 - View Reported Contents
 
 ## **`5. VoxTube Features In Progress`**
-Due to the limited time frame for the hackathon, some features are not fully implemented or are in progress, some of them are:
+Note some features are not fully implemented or are in progress, some of them are:
 - Live Streaming
 - Series/Collection
 - Buy Videos(A content creator can decide a resource/content is free, so the user will have to pay to unlock/access that resource to support the creator)
@@ -154,7 +154,4 @@ Example of CMS such as Wordpress, Strapi, hashnode, medium, VoxTube and lot more
 [Read more on CMS](https://kinsta.com/knowledgebase/content-management-system)
 
 ## **`10. References`**
-- CMS: https://kinsta.com/knowledgebase/content-management-system/
-
-## **`11. Conclusion`**
-Thanks to [PlanetScale](https://planetscale.com) and [HashNode](https://townhall.hashnode.com/planetscale-hackathon) for organising this great hackathon.
+- CMS: https://kinsta.com/knowledgebase/content-management-system/.
