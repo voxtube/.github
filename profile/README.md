@@ -12,7 +12,7 @@
 - [11. Conclusion](#11-conclusion)
 
 ## **`1. Introduction`**
-VoxTube is 'a' video streaming platform, developed by Ahmad Muhammad for the planet Scale Hackathon, VoxTube is video streaming platform made for content creators to reach their target audience.
+VoxTube is 'a' video streaming platform, developed by Ahmad Muhammad, VoxTube is video streaming platform made for content creators to reach their target audience.
 
 VoxTube backend was built with Nestjs and typescript whereas the streaming module is written in golang, the assets(videos, images and others) are being stored in cloudinary.
 
